@@ -1,3 +1,5 @@
+https://www.youtube.com/watch?v=7K9HyBFXnY0
+
 
 ffmpeg -i inputvideo.mp4 -c:v mjpeg -s 800x480 -r 5 -q 15 noaudio2.avi
 
